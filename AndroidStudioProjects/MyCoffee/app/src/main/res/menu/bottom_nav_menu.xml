@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/videoFragment"
+        android:icon="@drawable/home_black"
+        android:title="Home" />
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/explore_ic"
+        android:title="Explore" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/profile_ic"
+        android:title="Profile" />
+    <item
+        android:id="@+id/navigation_overview"
+        android:icon="@drawable/logout_ic"
+        android:title="Logout" />
+</menu>
